@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="captain">Captain Marvel</string>
+    <string name="main">Главное</string>
+    <string name="recomendation">Подборка</string>
+    <string name="collection">Коллекции</string>
+    <string name="profile">Профиль</string>
+    <string name="username">Воланд Иванов</string>
+    <string name="useremail">voland.ivanov@gmail.com</string>
+    <string name="edit">Изменить</string>
+    <string name="discussion">Обсуждения</string>
+    <string name="history">История</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+</resources>
